@@ -1,0 +1,2 @@
+# <file system>     <dir>       <type>   <options>   <dump>     <pass>
+172.16.0.16:/volume1/HOME_LAB_STORE /mnt/synology nfs      defaults    0       0
