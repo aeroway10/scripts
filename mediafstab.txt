@@ -1,0 +1,2 @@
+
+//172.16.0.200/MEDIA /nasqnap cifs vers=1.0,uid=swizz,credentials=/home/swizz/.smbcredentials,iocharset=utf8    0       0
